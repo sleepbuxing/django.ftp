@@ -1,0 +1,1113 @@
+﻿----------开始下载并解压--------------
+192.168.19.1登录成功
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/abcsj_gzynfx6h.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/C224ETFQ20600CIL51199020190619.DBF   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/cashsecurityclosemd_20190619_gzynfx6h.xml   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/clpr030619.txt   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/exra040619.txt   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/gh.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/gzlx.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/hkexclpr04_20190619.txt   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/hkexreff04_20190619.txt   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/imcexchangerate_20190619.xml   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/jsmx02.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/jsmx03.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/lofjs.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/mktdt04.txt   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_ccbdJS410.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_hyccJS410.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_jsmxJS410.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_zqjsJS410.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/qtsl.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/reff030619.txt   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/reff040619.txt   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/securities_20190619.xml   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsdz.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsfw.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsfx.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsgb.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsjg.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsks.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx0.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx1.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx2.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/trns0323219.txt   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/tzxx.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/ywhb.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zgh086.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqbdjs410.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqjsxx.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqy23219.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqyejs410.dbf   已完成下载
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zsmx.dbf   已完成下载
+192.168.19.1登录成功
+C:\untitled\download\致远天风稳健20190619.zip   已完成下载
+C:\untitled\download\致远天风稳健20190619.zip   已完成解压
+192.168.19.1登录成功
+C:\untitled\download\桭源鑫汇3号私募证券投资基金20190619.rar   已完成下载
+C:\untitled\download\桭源鑫汇3号私募证券投资基金20190619.rar   已完成解压
+192.168.19.1登录成功
+/天风证券/致远天风20190619.zip 文件不存在
+----------开始重命名文件--------------
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/abcsj_gzynfx6h_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/C224ETFQ20600CIL51199020190619_gzynfx6h.DBF   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/cashsecurityclosemd_20190619_gzynfx6h_gzynfx6h.xml   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/clpr030619_gzynfx6h.txt   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/exra040619_gzynfx6h.txt   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/gh_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/gzlx_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/hkexclpr04_20190619_gzynfx6h.txt   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/hkexreff04_20190619_gzynfx6h.txt   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/imcexchangerate_20190619_gzynfx6h.xml   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/jsmx02_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/jsmx03_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/lofjs_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/mktdt04_gzynfx6h.txt   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_ccbdJS410_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_hyccJS410_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_jsmxJS410_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_zqjsJS410_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/qtsl_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/reff030619_gzynfx6h.txt   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/reff040619_gzynfx6h.txt   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/securities_20190619_gzynfx6h.xml   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsdz_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsfw_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsfx_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsgb_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsjg_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsks_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx0_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx1_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx2_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/trns0323219_gzynfx6h.txt   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/tzxx_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/ywhb_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zgh086_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqbdjs410_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqjsxx_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqy23219_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqyejs410_gzynfx6h.dbf   重命名完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zsmx_gzynfx6h.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/abcsjjs693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/gh55026_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/hk_jsmxjs693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/hk_qtsljs693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/hk_tzxx_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/hk_zqbdjs693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/hk_zqyejs693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/jsmx01_js693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/jsmx02_js693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/jsmx03_js693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/lofjs_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/mktdt04_tfzytfwjwslh.txt   重命名完成
+C:\untitled\un\致远天风稳健20190619/qtsljs693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/sjsdz_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/sjsfw_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/sjsfx_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/sjsjg_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/sjsmx0_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/sjsmx1_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/sjsmx2_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/szhk_qtsl_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsdz_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsjg_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsmx1_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsmx2_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/SZHK_SJSQS_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/szhk_tzxx_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\致远天风稳健20190619/tzxx_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/wdqjs693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/ywhb_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/zqbdjs693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/zqyejs693_tfzytfwjwslh.619   重命名完成
+C:\untitled\un\致远天风稳健20190619/zsmx_tfzytfwjwslh.dbf   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ABCSJjs303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BGH13112dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSDZdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSFWdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSJGdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSMX1dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJZSMXdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/cashsecurityclosemd_20190619dbzqcyxh3h.XML   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/CILdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/clpr030619dbzqcyxh3h.txt   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/DGH13112dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/execution_aggr_F000228F0001_1_20190619dbzqcyxh3h.tsv   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/execution_aggr_F000228F0001_2_20190619dbzqcyxh3h.tsv   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/execution_aggr_F000228F0001_3_20190619dbzqcyxh3h.tsv   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/fjy20190619dbzqcyxh3h.txt   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/GH13112dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/gzlxdbzqcyxh3h.dbf   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/hkexclpr04_20190619dbzqcyxh3h.txt   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/hkexreff04_20190619dbzqcyxh3h.txt   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_JSMXjs303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_QTSLdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_QTSLjs303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_TZXXdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_ZQBDjs303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_ZQYEjs303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HOLD0313112dbzqcyxh3h.TXT   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/IPOGH13112dbzqcyxh3h.txt   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/JSMXjs303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/KSCcildbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/LOFJSdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/mktdt00dbzqcyxh3h.txt   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/mktdt04dbzqcyxh3h.txt   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQHBdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQHQdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQWTdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQXXdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_BZJZHdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_CCBDJS303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_HYCCJS303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_JSMXJS303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_ZHBDJS303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_ZHQTJS303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_ZQJSJS303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/QTSLdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/QTSLjs303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/QTSL_2dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/reff030619dbzqcyxh3h.txt   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/reff040619dbzqcyxh3h.txt   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SCD_98_638_20190619_HBdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/securities_20190619dbzqcyxh3h.XML   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSDZdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSFWdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSFXdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/sjsgbdbzqcyxh3h.dbf   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSJGdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSKSdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSMX0dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSMX1dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSMX2dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_QTSLdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_QTSL_1dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSDZdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSGBdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSJGdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSMX1dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSMX2dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_TZXXdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_YWHBdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/TRNS0313112dbzqcyxh3h.TXT   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/TZXXdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/WDQjs303dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/WDQ_1dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/YWHBdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZGHdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZQBDdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/zqjsxxdbzqcyxh3h.dbf   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZQY13112dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZQYEdbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZSMX0619dbzqcyxh3h.DBF   重命名完成
+C:\untitled\un\致远天风20190619 不存在
+
+----------开始上传文件--------------
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金   开始上传到192.168.83.1
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/abcsj_gzynfx6h_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/C224ETFQ20600CIL51199020190619_gzynfx6h.DBF   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/cashsecurityclosemd_20190619_gzynfx6h_gzynfx6h.xml   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/clpr030619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/exra040619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/gh_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/gzlx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/hkexclpr04_20190619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/hkexreff04_20190619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/imcexchangerate_20190619_gzynfx6h.xml   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/jsmx02_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/jsmx03_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/lofjs_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/mktdt04_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_ccbdJS410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_hyccJS410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_jsmxJS410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_zqjsJS410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/qtsl_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/reff030619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/reff040619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/securities_20190619_gzynfx6h.xml   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsdz_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsfw_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsfx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsgb_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsjg_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsks_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx0_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx1_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx2_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/trns0323219_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/tzxx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/ywhb_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zgh086_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqbdjs410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqjsxx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqy23219_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqyejs410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zsmx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金   上传到192.168.83.1完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金   开始上传到192.168.19.1
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/abcsj_gzynfx6h_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/C224ETFQ20600CIL51199020190619_gzynfx6h.DBF   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/cashsecurityclosemd_20190619_gzynfx6h_gzynfx6h.xml   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/clpr030619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/exra040619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/gh_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/gzlx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/hkexclpr04_20190619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/hkexreff04_20190619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/imcexchangerate_20190619_gzynfx6h.xml   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/jsmx02_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/jsmx03_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/lofjs_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/mktdt04_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_ccbdJS410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_hyccJS410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_jsmxJS410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/op_zqjsJS410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/qtsl_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/reff030619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/reff040619_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/securities_20190619_gzynfx6h.xml   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsdz_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsfw_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsfx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsgb_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsjg_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsks_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx0_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx1_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/sjsmx2_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/trns0323219_gzynfx6h.txt   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/tzxx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/ywhb_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zgh086_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqbdjs410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqjsxx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqy23219_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zqyejs410_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金/zsmx_gzynfx6h.dbf   已上传完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金   上传到192.168.19.1完成
+C:\untitled\un\致远天风稳健20190619   开始上传到192.168.83.1
+C:\untitled\un\致远天风稳健20190619/abcsjjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/gh55026_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_jsmxjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_qtsljs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_tzxx_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_zqbdjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_zqyejs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/jsmx01_js693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/jsmx02_js693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/jsmx03_js693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/lofjs_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/mktdt04_tfzytfwjwslh.txt   已上传完成
+C:\untitled\un\致远天风稳健20190619/qtsljs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsdz_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsfw_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsfx_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsjg_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsmx0_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsmx1_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsmx2_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_qtsl_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsdz_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsjg_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsmx1_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsmx2_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/SZHK_SJSQS_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_tzxx_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/tzxx_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/wdqjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/ywhb_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/zqbdjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/zqyejs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/zsmx_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619   上传到192.168.83.1完成
+C:\untitled\un\致远天风稳健20190619   开始上传到192.168.19.1
+C:\untitled\un\致远天风稳健20190619/abcsjjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/gh55026_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_jsmxjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_qtsljs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_tzxx_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_zqbdjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/hk_zqyejs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/jsmx01_js693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/jsmx02_js693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/jsmx03_js693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/lofjs_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/mktdt04_tfzytfwjwslh.txt   已上传完成
+C:\untitled\un\致远天风稳健20190619/qtsljs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsdz_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsfw_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsfx_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsjg_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsmx0_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsmx1_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/sjsmx2_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_qtsl_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsdz_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsjg_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsmx1_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_sjsmx2_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/SZHK_SJSQS_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/szhk_tzxx_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619/tzxx_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/wdqjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/ywhb_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/zqbdjs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/zqyejs693_tfzytfwjwslh.619   已上传完成
+C:\untitled\un\致远天风稳健20190619/zsmx_tfzytfwjwslh.dbf   已上传完成
+C:\untitled\un\致远天风稳健20190619   上传到192.168.19.1完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619   开始上传到192.168.83.1
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ABCSJjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BGH13112dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSDZdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSFWdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSJGdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSMX1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJZSMXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/cashsecurityclosemd_20190619dbzqcyxh3h.XML   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/CILdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/clpr030619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/DGH13112dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/execution_aggr_F000228F0001_1_20190619dbzqcyxh3h.tsv   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/execution_aggr_F000228F0001_2_20190619dbzqcyxh3h.tsv   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/execution_aggr_F000228F0001_3_20190619dbzqcyxh3h.tsv   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/fjy20190619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/GH13112dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/gzlxdbzqcyxh3h.dbf   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/hkexclpr04_20190619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/hkexreff04_20190619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_JSMXjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_QTSLdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_QTSLjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_TZXXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_ZQBDjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_ZQYEjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HOLD0313112dbzqcyxh3h.TXT   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/IPOGH13112dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/JSMXjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/KSCcildbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/LOFJSdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/mktdt00dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/mktdt04dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQHBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQHQdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQWTdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQXXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_BZJZHdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_CCBDJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_HYCCJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_JSMXJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_ZHBDJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_ZHQTJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_ZQJSJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/QTSLdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/QTSLjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/QTSL_2dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/reff030619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/reff040619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SCD_98_638_20190619_HBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/securities_20190619dbzqcyxh3h.XML   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSDZdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSFWdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSFXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/sjsgbdbzqcyxh3h.dbf   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSJGdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSKSdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSMX0dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSMX1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSMX2dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_QTSLdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_QTSL_1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSDZdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSGBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSJGdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSMX1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSMX2dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_TZXXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_YWHBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/TRNS0313112dbzqcyxh3h.TXT   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/TZXXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/WDQjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/WDQ_1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/YWHBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZGHdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZQBDdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/zqjsxxdbzqcyxh3h.dbf   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZQY13112dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZQYEdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZSMX0619dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619   上传到192.168.83.1完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619   开始上传到192.168.19.1
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ABCSJjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BGH13112dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSDZdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSFWdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSJGdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJSMX1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/BJZSMXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/cashsecurityclosemd_20190619dbzqcyxh3h.XML   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/CILdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/clpr030619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/DGH13112dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/execution_aggr_F000228F0001_1_20190619dbzqcyxh3h.tsv   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/execution_aggr_F000228F0001_2_20190619dbzqcyxh3h.tsv   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/execution_aggr_F000228F0001_3_20190619dbzqcyxh3h.tsv   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/fjy20190619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/GH13112dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/gzlxdbzqcyxh3h.dbf   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/hkexclpr04_20190619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/hkexreff04_20190619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_JSMXjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_QTSLdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_QTSLjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_TZXXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_ZQBDjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HK_ZQYEjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/HOLD0313112dbzqcyxh3h.TXT   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/IPOGH13112dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/JSMXjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/KSCcildbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/LOFJSdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/mktdt00dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/mktdt04dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQHBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQHQdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQWTdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/NQXXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_BZJZHdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_CCBDJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_HYCCJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_JSMXJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_ZHBDJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_ZHQTJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/OP_ZQJSJS303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/QTSLdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/QTSLjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/QTSL_2dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/reff030619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/reff040619dbzqcyxh3h.txt   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SCD_98_638_20190619_HBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/securities_20190619dbzqcyxh3h.XML   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSDZdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSFWdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSFXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/sjsgbdbzqcyxh3h.dbf   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSJGdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSKSdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSMX0dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSMX1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SJSMX2dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_QTSLdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_QTSL_1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSDZdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSGBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSJGdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSMX1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_SJSMX2dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_TZXXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/SZHK_YWHBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/TRNS0313112dbzqcyxh3h.TXT   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/TZXXdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/WDQjs303dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/WDQ_1dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/YWHBdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZGHdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZQBDdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/zqjsxxdbzqcyxh3h.dbf   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZQY13112dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZQYEdbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619/ZSMX0619dbzqcyxh3h.DBF   已上传完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619   上传到192.168.19.1完成
+C:\untitled\un\致远天风20190619 不存在
+C:\untitled\un\致远天风20190619 不存在
+----------开始上传文件--------------
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金   开始上传到192.168.83.1
+已上传到/托管数据/高端估值/20190619/abcsj_gzynfx6h_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/C224ETFQ20600CIL51199020190619_gzynfx6h.DBF
+已上传到/托管数据/高端估值/20190619/cashsecurityclosemd_20190619_gzynfx6h_gzynfx6h.xml
+已上传到/托管数据/高端估值/20190619/clpr030619_gzynfx6h.txt
+已上传到/托管数据/高端估值/20190619/exra040619_gzynfx6h.txt
+已上传到/托管数据/高端估值/20190619/gh_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/gzlx_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/hkexclpr04_20190619_gzynfx6h.txt
+已上传到/托管数据/高端估值/20190619/hkexreff04_20190619_gzynfx6h.txt
+已上传到/托管数据/高端估值/20190619/imcexchangerate_20190619_gzynfx6h.xml
+已上传到/托管数据/高端估值/20190619/jsmx02_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/jsmx03_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/lofjs_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/mktdt04_gzynfx6h.txt
+已上传到/托管数据/高端估值/20190619/op_ccbdJS410_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/op_hyccJS410_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/op_jsmxJS410_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/op_zqjsJS410_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/qtsl_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/reff030619_gzynfx6h.txt
+已上传到/托管数据/高端估值/20190619/reff040619_gzynfx6h.txt
+已上传到/托管数据/高端估值/20190619/securities_20190619_gzynfx6h.xml
+已上传到/托管数据/高端估值/20190619/sjsdz_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/sjsfw_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/sjsfx_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/sjsgb_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/sjsjg_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/sjsks_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/sjsmx0_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/sjsmx1_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/sjsmx2_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/trns0323219_gzynfx6h.txt
+已上传到/托管数据/高端估值/20190619/tzxx_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/ywhb_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/zgh086_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/zqbdjs410_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/zqjsxx_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/zqy23219_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/zqyejs410_gzynfx6h.dbf
+已上传到/托管数据/高端估值/20190619/zsmx_gzynfx6h.dbf
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金   上传到192.168.83.1完成
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金   开始上传到192.168.19.1
+已上传到/托管数据/估值核算/20190619/abcsj_gzynfx6h_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/C224ETFQ20600CIL51199020190619_gzynfx6h.DBF
+已上传到/托管数据/估值核算/20190619/cashsecurityclosemd_20190619_gzynfx6h_gzynfx6h.xml
+已上传到/托管数据/估值核算/20190619/clpr030619_gzynfx6h.txt
+已上传到/托管数据/估值核算/20190619/exra040619_gzynfx6h.txt
+已上传到/托管数据/估值核算/20190619/gh_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/gzlx_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/hkexclpr04_20190619_gzynfx6h.txt
+已上传到/托管数据/估值核算/20190619/hkexreff04_20190619_gzynfx6h.txt
+已上传到/托管数据/估值核算/20190619/imcexchangerate_20190619_gzynfx6h.xml
+已上传到/托管数据/估值核算/20190619/jsmx02_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/jsmx03_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/lofjs_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/mktdt04_gzynfx6h.txt
+已上传到/托管数据/估值核算/20190619/op_ccbdJS410_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/op_hyccJS410_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/op_jsmxJS410_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/op_zqjsJS410_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/qtsl_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/reff030619_gzynfx6h.txt
+已上传到/托管数据/估值核算/20190619/reff040619_gzynfx6h.txt
+已上传到/托管数据/估值核算/20190619/securities_20190619_gzynfx6h.xml
+已上传到/托管数据/估值核算/20190619/sjsdz_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/sjsfw_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/sjsfx_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/sjsgb_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/sjsjg_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/sjsks_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/sjsmx0_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/sjsmx1_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/sjsmx2_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/trns0323219_gzynfx6h.txt
+已上传到/托管数据/估值核算/20190619/tzxx_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/ywhb_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/zgh086_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/zqbdjs410_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/zqjsxx_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/zqy23219_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/zqyejs410_gzynfx6h.dbf
+已上传到/托管数据/估值核算/20190619/zsmx_gzynfx6h.dbf
+C:\untitled\un\广州证券20190619宇纳复兴6号私募证券投资基金   上传到192.168.19.1完成
+C:\untitled\un\致远天风稳健20190619   开始上传到192.168.83.1
+已上传到/托管数据/高端估值/20190619/abcsjjs693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/gh55026_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/hk_jsmxjs693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/hk_qtsljs693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/hk_tzxx_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/hk_zqbdjs693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/hk_zqyejs693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/jsmx01_js693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/jsmx02_js693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/jsmx03_js693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/lofjs_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/mktdt04_tfzytfwjwslh.txt
+已上传到/托管数据/高端估值/20190619/qtsljs693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/sjsdz_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/sjsfw_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/sjsfx_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/sjsjg_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/sjsmx0_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/sjsmx1_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/sjsmx2_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/szhk_qtsl_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/szhk_sjsdz_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/szhk_sjsjg_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/szhk_sjsmx1_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/szhk_sjsmx2_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/SZHK_SJSQS_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/szhk_tzxx_tfzytfwjwslh.dbf
+已上传到/托管数据/高端估值/20190619/tzxx_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/wdqjs693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/ywhb_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/zqbdjs693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/zqyejs693_tfzytfwjwslh.619
+已上传到/托管数据/高端估值/20190619/zsmx_tfzytfwjwslh.dbf
+C:\untitled\un\致远天风稳健20190619   上传到192.168.83.1完成
+C:\untitled\un\致远天风稳健20190619   开始上传到192.168.19.1
+已上传到/托管数据/估值核算/20190619/abcsjjs693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/gh55026_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/hk_jsmxjs693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/hk_qtsljs693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/hk_tzxx_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/hk_zqbdjs693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/hk_zqyejs693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/jsmx01_js693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/jsmx02_js693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/jsmx03_js693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/lofjs_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/mktdt04_tfzytfwjwslh.txt
+已上传到/托管数据/估值核算/20190619/qtsljs693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/sjsdz_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/sjsfw_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/sjsfx_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/sjsjg_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/sjsmx0_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/sjsmx1_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/sjsmx2_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/szhk_qtsl_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/szhk_sjsdz_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/szhk_sjsjg_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/szhk_sjsmx1_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/szhk_sjsmx2_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/SZHK_SJSQS_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/szhk_tzxx_tfzytfwjwslh.dbf
+已上传到/托管数据/估值核算/20190619/tzxx_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/wdqjs693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/ywhb_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/zqbdjs693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/zqyejs693_tfzytfwjwslh.619
+已上传到/托管数据/估值核算/20190619/zsmx_tfzytfwjwslh.dbf
+C:\untitled\un\致远天风稳健20190619   上传到192.168.19.1完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619   开始上传到192.168.83.1
+已上传到/托管数据/高端估值/20190619/ABCSJjs303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/BGH13112dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/BJSDZdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/BJSFWdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/BJSJGdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/BJSMX1dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/BJZSMXdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/cashsecurityclosemd_20190619dbzqcyxh3h.XML
+已上传到/托管数据/高端估值/20190619/CILdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/clpr030619dbzqcyxh3h.txt
+已上传到/托管数据/高端估值/20190619/DGH13112dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/execution_aggr_F000228F0001_1_20190619dbzqcyxh3h.tsv
+已上传到/托管数据/高端估值/20190619/execution_aggr_F000228F0001_2_20190619dbzqcyxh3h.tsv
+已上传到/托管数据/高端估值/20190619/execution_aggr_F000228F0001_3_20190619dbzqcyxh3h.tsv
+已上传到/托管数据/高端估值/20190619/fjy20190619dbzqcyxh3h.txt
+已上传到/托管数据/高端估值/20190619/GH13112dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/gzlxdbzqcyxh3h.dbf
+已上传到/托管数据/高端估值/20190619/hkexclpr04_20190619dbzqcyxh3h.txt
+已上传到/托管数据/高端估值/20190619/hkexreff04_20190619dbzqcyxh3h.txt
+已上传到/托管数据/高端估值/20190619/HK_JSMXjs303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/HK_QTSLdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/HK_QTSLjs303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/HK_TZXXdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/HK_ZQBDjs303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/HK_ZQYEjs303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/HOLD0313112dbzqcyxh3h.TXT
+已上传到/托管数据/高端估值/20190619/IPOGH13112dbzqcyxh3h.txt
+已上传到/托管数据/高端估值/20190619/JSMXjs303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/KSCcildbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/LOFJSdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/mktdt00dbzqcyxh3h.txt
+已上传到/托管数据/高端估值/20190619/mktdt04dbzqcyxh3h.txt
+已上传到/托管数据/高端估值/20190619/NQHBdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/NQHQdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/NQWTdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/NQXXdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/OP_BZJZHdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/OP_CCBDJS303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/OP_HYCCJS303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/OP_JSMXJS303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/OP_ZHBDJS303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/OP_ZHQTJS303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/OP_ZQJSJS303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/QTSLdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/QTSLjs303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/QTSL_2dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/reff030619dbzqcyxh3h.txt
+已上传到/托管数据/高端估值/20190619/reff040619dbzqcyxh3h.txt
+已上传到/托管数据/高端估值/20190619/SCD_98_638_20190619_HBdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/securities_20190619dbzqcyxh3h.XML
+已上传到/托管数据/高端估值/20190619/SJSDZdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SJSFWdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SJSFXdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/sjsgbdbzqcyxh3h.dbf
+已上传到/托管数据/高端估值/20190619/SJSJGdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SJSKSdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SJSMX0dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SJSMX1dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SJSMX2dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SZHK_QTSLdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SZHK_QTSL_1dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SZHK_SJSDZdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SZHK_SJSGBdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SZHK_SJSJGdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SZHK_SJSMX1dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SZHK_SJSMX2dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SZHK_TZXXdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/SZHK_YWHBdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/TRNS0313112dbzqcyxh3h.TXT
+已上传到/托管数据/高端估值/20190619/TZXXdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/WDQjs303dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/WDQ_1dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/YWHBdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/ZGHdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/ZQBDdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/zqjsxxdbzqcyxh3h.dbf
+已上传到/托管数据/高端估值/20190619/ZQY13112dbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/ZQYEdbzqcyxh3h.DBF
+已上传到/托管数据/高端估值/20190619/ZSMX0619dbzqcyxh3h.DBF
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619   上传到192.168.83.1完成
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619   开始上传到192.168.19.1
+已上传到/托管数据/估值核算/20190619/ABCSJjs303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/BGH13112dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/BJSDZdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/BJSFWdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/BJSJGdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/BJSMX1dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/BJZSMXdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/cashsecurityclosemd_20190619dbzqcyxh3h.XML
+已上传到/托管数据/估值核算/20190619/CILdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/clpr030619dbzqcyxh3h.txt
+已上传到/托管数据/估值核算/20190619/DGH13112dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/execution_aggr_F000228F0001_1_20190619dbzqcyxh3h.tsv
+已上传到/托管数据/估值核算/20190619/execution_aggr_F000228F0001_2_20190619dbzqcyxh3h.tsv
+已上传到/托管数据/估值核算/20190619/execution_aggr_F000228F0001_3_20190619dbzqcyxh3h.tsv
+已上传到/托管数据/估值核算/20190619/fjy20190619dbzqcyxh3h.txt
+已上传到/托管数据/估值核算/20190619/GH13112dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/gzlxdbzqcyxh3h.dbf
+已上传到/托管数据/估值核算/20190619/hkexclpr04_20190619dbzqcyxh3h.txt
+已上传到/托管数据/估值核算/20190619/hkexreff04_20190619dbzqcyxh3h.txt
+已上传到/托管数据/估值核算/20190619/HK_JSMXjs303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/HK_QTSLdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/HK_QTSLjs303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/HK_TZXXdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/HK_ZQBDjs303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/HK_ZQYEjs303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/HOLD0313112dbzqcyxh3h.TXT
+已上传到/托管数据/估值核算/20190619/IPOGH13112dbzqcyxh3h.txt
+已上传到/托管数据/估值核算/20190619/JSMXjs303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/KSCcildbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/LOFJSdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/mktdt00dbzqcyxh3h.txt
+已上传到/托管数据/估值核算/20190619/mktdt04dbzqcyxh3h.txt
+已上传到/托管数据/估值核算/20190619/NQHBdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/NQHQdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/NQWTdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/NQXXdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/OP_BZJZHdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/OP_CCBDJS303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/OP_HYCCJS303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/OP_JSMXJS303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/OP_ZHBDJS303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/OP_ZHQTJS303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/OP_ZQJSJS303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/QTSLdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/QTSLjs303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/QTSL_2dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/reff030619dbzqcyxh3h.txt
+已上传到/托管数据/估值核算/20190619/reff040619dbzqcyxh3h.txt
+已上传到/托管数据/估值核算/20190619/SCD_98_638_20190619_HBdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/securities_20190619dbzqcyxh3h.XML
+已上传到/托管数据/估值核算/20190619/SJSDZdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SJSFWdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SJSFXdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/sjsgbdbzqcyxh3h.dbf
+已上传到/托管数据/估值核算/20190619/SJSJGdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SJSKSdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SJSMX0dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SJSMX1dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SJSMX2dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SZHK_QTSLdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SZHK_QTSL_1dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SZHK_SJSDZdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SZHK_SJSGBdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SZHK_SJSJGdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SZHK_SJSMX1dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SZHK_SJSMX2dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SZHK_TZXXdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/SZHK_YWHBdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/TRNS0313112dbzqcyxh3h.TXT
+已上传到/托管数据/估值核算/20190619/TZXXdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/WDQjs303dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/WDQ_1dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/YWHBdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/ZGHdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/ZQBDdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/zqjsxxdbzqcyxh3h.dbf
+已上传到/托管数据/估值核算/20190619/ZQY13112dbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/ZQYEdbzqcyxh3h.DBF
+已上传到/托管数据/估值核算/20190619/ZSMX0619dbzqcyxh3h.DBF
+C:\untitled\un\桭源鑫汇3号私募证券投资基金20190619   上传到192.168.19.1完成
+C:\untitled\un\致远天风20190619 不存在
+C:\untitled\un\致远天风20190619 不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190630/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190630.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190630.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190630.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190630/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190630.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190630.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190630.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190630/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190630.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190630.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190630.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190630/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190630.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190630.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190630.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190630/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190630.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190630.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190630.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190630/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190630.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190630.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190630.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190628/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190628.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190628.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190628.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190701/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190701.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190701.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190701.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190628/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190628.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190628.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190628.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190628/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190628.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190628.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190628.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20191004/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20191004.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20191004.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20191004.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190628/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190628.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190628.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190628.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190930/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190930.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190930.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190930.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190930/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190930.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190930.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190930.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190930/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190930.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190930.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190930.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190628/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190628.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190628.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190628.zip 文件不存在
+----------开始下载并解压--------------
+192.168.19.1登录成功
+/广州证券/20190701/宇纳复兴6号私募证券投资基金 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风稳健20190701.zip 文件不存在
+192.168.19.1登录成功
+/东北证券/桭源鑫汇3号/桭源鑫汇3号私募证券投资基金20190701.rar 文件不存在
+192.168.19.1登录成功
+/天风证券/致远天风20190701.zip 文件不存在

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<exchangerate>
+<FromCurrency>HKD </FromCurrency>
+<ToCurrency>CNY </ToCurrency>
+<BidRate>0.85880</BidRate>
+<OfferRate>0.91200</OfferRate>
+<MidPointRate>0.88540</MidPointRate>
+</exchangerate>
+</root>
